@@ -40,4 +40,4 @@ New skills are added with each video.
 
 MIT. Use it in any project, commercial or not.
 
-If this helps your game, please subscribe to [@sharathraviofficial](https://www.youtube.com/@sharathraviofficial). It means a lot to me.
+**Watch each trick in action:** every skill has a short side-by-side video on [YouTube @sharathraviofficial](https://www.youtube.com/@sharathraviofficial). New tricks every week.
