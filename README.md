@@ -1,6 +1,6 @@
 # Game Feel Skills
 
-Instructions that teach your **AI coding assistant** how to add game feel properly: hit stop, screen shake, coyote time, jump buffering, camera dead zones, and more.
+Instructions that teach your **AI coding assistant** how to add game feel properly: hit stop, screen shake, coyote time, jump buffering, camera dead zones, easing, and more.
 
 Every trick comes from a video on [@sharathraviofficial](https://www.youtube.com/@sharathraviofficial) and uses the **same values tuned in the demo you see in the video**. Your AI gets working numbers, frame-rate-independent code, the common mistakes and a test checklist instead of guessing.
 
@@ -23,6 +23,7 @@ Then just describe the problem: *"Players say they pressed jump but fell off the
 | [coyote-time](skills/coyote-time/SKILL.md) | "I pressed jump but fell" | [Why Your Jump Feels Bad](https://www.youtube.com/watch?v=-V2MT1N950k) |
 | [jump-buffer](skills/jump-buffer/SKILL.md) | Jump presses get ignored just before landing | [Why Your Jump Feels Bad](https://www.youtube.com/watch?v=-V2MT1N950k) |
 | [camera-dead-zone](skills/camera-dead-zone/SKILL.md) | Camera is jittery or makes players dizzy | Camera Tricks (29 Nov) |
+| [easing](skills/easing/SKILL.md) | Motion looks robotic, stiff or linear | 5 Easing Tricks (3 Dec) |
 | [publish-to-wavedash](skills/publish-to-wavedash/SKILL.md) | Getting a web game live on Wavedash | |
 
 New skills are added with each video.

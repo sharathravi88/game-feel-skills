@@ -10,6 +10,7 @@ read the matching `skills/<name>/SKILL.md` **before writing code**, and follow i
 | jumps don't register, fell off the ledge, platformer feels unfair | `skills/coyote-time/SKILL.md` |
 | jump ignored when pressed just before landing | `skills/jump-buffer/SKILL.md` |
 | camera jitters, follows too tightly, makes people dizzy | `skills/camera-dead-zone/SKILL.md` |
+| motion looks robotic, stiff, linear; tweens, easing functions | `skills/easing/SKILL.md` |
 | publish / upload / playtest a web game on Wavedash | `skills/publish-to-wavedash/SKILL.md` |
 
 ## Rules for every skill
