@@ -24,6 +24,7 @@ Then just describe the problem: *"Players say they pressed jump but fell off the
 | [jump-buffer](skills/jump-buffer/SKILL.md) | Jump presses get ignored just before landing | [Why Your Jump Feels Bad](https://www.youtube.com/watch?v=-V2MT1N950k) |
 | [camera-dead-zone](skills/camera-dead-zone/SKILL.md) | Camera is jittery or makes players dizzy | Camera Tricks (29 Nov) |
 | [easing](skills/easing/SKILL.md) | Motion looks robotic, stiff or linear | 5 Easing Tricks (3 Dec) |
+| [enemy-hit-feedback](skills/enemy-hit-feedback/SKILL.md) | Hits feel like hitting air | Your Enemies Don't Feel Hit (7 Dec) |
 | [publish-to-wavedash](skills/publish-to-wavedash/SKILL.md) | Getting a web game live on Wavedash | |
 
 New skills are added with each video.

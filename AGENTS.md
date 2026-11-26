@@ -11,6 +11,7 @@ read the matching `skills/<name>/SKILL.md` **before writing code**, and follow i
 | jump ignored when pressed just before landing | `skills/jump-buffer/SKILL.md` |
 | camera jitters, follows too tightly, makes people dizzy | `skills/camera-dead-zone/SKILL.md` |
 | motion looks robotic, stiff, linear; tweens, easing functions | `skills/easing/SKILL.md` |
+| hits don't register, enemies feel like air, damage numbers, health bars | `skills/enemy-hit-feedback/SKILL.md` |
 | publish / upload / playtest a web game on Wavedash | `skills/publish-to-wavedash/SKILL.md` |
 
 ## Rules for every skill
