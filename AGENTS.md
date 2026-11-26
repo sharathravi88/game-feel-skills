@@ -12,6 +12,7 @@ read the matching `skills/<name>/SKILL.md` **before writing code**, and follow i
 | camera jitters, follows too tightly, makes people dizzy | `skills/camera-dead-zone/SKILL.md` |
 | motion looks robotic, stiff, linear; tweens, easing functions | `skills/easing/SKILL.md` |
 | hits don't register, enemies feel like air, damage numbers, health bars | `skills/enemy-hit-feedback/SKILL.md` |
+| car / racing game feels slow, no sense of speed, FOV, speed lines, engine sound | `skills/car-speed-feel/SKILL.md` |
 | publish / upload / playtest a web game on Wavedash | `skills/publish-to-wavedash/SKILL.md` |
 
 ## Rules for every skill
